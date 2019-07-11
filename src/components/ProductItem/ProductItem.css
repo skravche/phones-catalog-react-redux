@@ -1,0 +1,41 @@
+.wrap {
+  display: flex;
+  padding: 0 15px;
+}
+.leftCol {
+  width: 16%;
+}
+.rightCol {
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  padding-left: 40px;
+  width: 83.333%;
+}
+.selector {
+  display: inline-block;
+  margin-left: 10px;
+}
+.pname {
+  margin-right: 10px;
+}
+.phone-list {
+  border: 1px solid grey;
+  border-radius: 5px;
+  display: flex;
+  margin-bottom: 10px;
+  padding: 10px 4px 4px 4px;
+  text-decoration: none;
+}
+.picphone {
+  display: block;
+  max-width: 100px;
+  height: auto;
+}
+.phone-text {
+  margin-left: 14px;
+}
+.description {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 12px;
+}

@@ -1,0 +1,22 @@
+header {
+  padding: 24px;
+}
+
+.layout {
+  display: flex;
+  height: 500px;
+}
+
+main {
+  width: 75%;
+  background: lightblue;
+}
+
+aside {
+  width: 25%;
+  background: lightcyan;
+}
+
+.nav-wrapper {
+  background: tomato;
+}

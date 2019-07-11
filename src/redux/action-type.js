@@ -1,0 +1,11 @@
+//start
+export const GET_PHONE_LIST_REQUEST = 'GET_PHONE_LIST_REQUEST ';
+export const GET_PHONE_LIST_SUCCESS = 'GET_PHONE_LIST_SUCCESS';
+export const GET_PHONE_LIST_FAILURE = 'GET_PHONE_LIST_FAILURE';
+
+//for cart
+export const ADD_TO_CART = 'ADD_TO_CART';
+export const REMOVE_ITEM = 'REMOVE_ITEM';
+export const SUB_QUANTITY = 'SUB_QUANTITY';
+export const ADD_QUANTITY = 'ADD_QUANTITY';
+export const ADD_SHIPPING = 'ADD_SHIPPING';
